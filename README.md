@@ -7,7 +7,7 @@ This wesbite is for personal projects.
 - [Repository](https://github.com/jeremyyoo/jeremyyoo.github.io)
 - [Issue Tracker](https://github.com/jeremyyoo/jeremyyoo.github.io/issues)
 
-This website was built using [this guide](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code).
+This website was built using [this guide](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code). <br />
 This repository contains starter code for Portfolio website created using NextJs. <br />
 
 
