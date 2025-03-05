@@ -1,76 +1,67 @@
 HOME PAGE: 
 
-- Turning Vision Into Reality With Code And Design. 
-- As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
-Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+- Combining Computer Vision and Machine Learning with Materials Science and Engineering. 
+- As a materials characterization expert, I am a passionate about learning new ways to analyze images and visualize data.
+Explore my latest personal projects (and scientific art), showcasing my expertise in computer vision, image processing, and machine learning.
 
 --------------------------------------------------------------
 
 ABOUT PAGE:
 
 - Passion Fuels Purpose! 
-- Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
-and user-centered digital experiences. With 4 years of experience in the field. I am always looking for 
-new and innovative ways to bring my clients' visions to life.
+- Guten Tag! My name is Yung Suk "Jeremy" Yoo, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
+I am always looking for innovative ways to process image data and presenting results using creative visuals. 
+As humans, we can process and convey information more efficiently using images than any other medium. 
+With 8 years of transmission electron microscopy (TEM) and 3 years of machine learning experience, I am always looking for interesting problems to solve.
 
-- I believe that design is about more than just making things look pretty – it's about solving problems and 
-creating intuitive, enjoyable experiences for users. 
 
-- Whether I'm working on a website, mobile app, or 
-other digital product, I bring my commitment to design excellence and user-centered thinking to 
-every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+- While pursuing my Ph.D. using electron microcopy, I realized that most of our attention and efforts are focused on visual ergonomics and data. 
+My Ph.D. thesis presentation was filled with images that was palatable to both the technical and non-expert audience. 
+I believe that visualization will only become more important in an age where technology becomes more important in our lives. 
+It is critical not only to know how to process volumes of image data but also to convert information-dense results into digestible content like graphs and maps. 
+
+
+- With this online portfolio, I hope to explore intereting ways to visualize numerical data and process images. 
+I look forward to the day when I can discuss my work with people from different areas of expertise. 
 
 --------------------------------------------------------------
 
 EXPERIENCE: 
 
-Software Engineer @Google
-2022-Present | Mountain View, CA
-Worked on a team responsible for developing new features for Google's 
-search engine, including improving the accuracy and relevance of search results and 
-developing new tools for data analysis and visualization.
+Software Research Scientist/Engineer @Intel
+2022-2024 | Hillsboro, CA, USA
+Worked on a team calibrating computer models (optical proximity correction) to optimize photomask performance for high yield manufacturing 
+Developed and tested machine learning image classifiers that selected images of failed photoresist prints on wafers
+Developed and maintained internal Python automation tools using Gitlab 
 
-Intern @Facebook
-Summer 2021 | Menlo Park, CA.
-Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
-share short-form video content, including designing and implementing a new user interface and developing 
-the backend infrastructure to support the feature.
+Postdoctoral Research Fellow @University of Michigan
+2020-2022 | Ann Arbor, MI, USA
+Worked as a Postdoctoral Fellow in Professor Amit Misra's group combining EBSD and TEM to characterize dislocation pileup near grain boundaries in magnesium alloys
 
-Software Developer @Amazon
-2020-2021 | Seattle, WA.
-Worked on a team responsible for developing Amazon's mobile app, including implementing new features such 
-as product recommendations and user reviews, and optimizing the app's performance and reliability.
+Graduate Research Intern @Los Alamos National Laboratory
+Summer 2018 | Los Alamos, NM, USA
+Worked as a summer intern characterizing spall surface of tantalum after shock loading
+Developed MATLAB analysis script to process grain boundary orientation from EBSD data 
 
-Software Developer Intern @Microsoft
-Summer 2019 | Redmond, WA.
-Worked on a team responsible for developing new features for Microsoft's Windows operating system, 
-including implementing a new user interface for a system settings panel and optimizing the performance of 
-a core system component.
-
-Teaching Assistant @MIT
-Fall 2018 | Massachusetts Ave, Cambridge, MA.
-Assisted in teaching a course on computer programming, held office hours to help students with assignments, 
-and graded exams and assignments.
+Graduate Research Assistant @Georgia Institute of Technology
+2014-2020 | Atlanta, GA, USA
+Pursed a Doctorate in Materials Science and Engineering under Professor Josh Kacher focusing on developing multiscale electron microscopy techniques to study the deformation behavior of aluminum alloys under three-point bending
+Developed a MATLAB script counting the number of dispersoid particles and their area fractions in STEM images 
+Combined high resolution EBSD, focused ion beam, and TEM data to investigate the microstructural changes in stress-tested aluminum
+Quantify strain accumulation near microstructural defects using data science techniques
 
 
 --------------------------------------------------------------
 
 EDUCATION:
 
-Bachelor Of Science In Computer Science
-2016-2020 | Massachusetts Institute Of Technology (MIT)
-Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-Intelligence.
+Ph.D. in Materials Science and Engineering
+2014-2020 | Georgia Institute of Technology (Georgia Tech)
+Concentration in materials characterization and image processing.
 
-Master Of Computer Science
-2020-2022 | Stanford University
-Completed a master's project on deep learning, developing a new neural network architecture for natural 
-language understanding.
-
-Online Coursework
-2016-2020 | Coursera And EdX
-Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine 
-Learning Engineering.
+B.S. in Materials Science and Engineering
+2010-2014 | Korea University
+Coursework focused on semiconductors. 
 
 --------------------------------------------------------------
 
