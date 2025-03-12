@@ -30,7 +30,7 @@ export default function Home() {
             <div className='w-1/2 flex flex-col items-center self-center'>
               <AnimatedText text="Combining Materials Science and Machine Learning" className='!text-6xl !text-left' />
               <p className='my-4 text-base font-medium'>
-                As a materials characterization expert, I am passionate about learning new ways to analyze images and visualize data.
+                As a machine learning and materials characterization expert, I am passionate about learning new ways to analyze images and visualize data.
                 Explore my latest personal projects (and scientific art), showcasing my expertise in computer vision, image processing, and machine learning.
 
               </p>
