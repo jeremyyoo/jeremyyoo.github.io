@@ -1,0 +1,111 @@
+HOME PAGE: 
+
+- Combining Computer Vision and Machine Learning with Materials Science and Engineering. 
+- As a materials characterization expert, I am a passionate about learning new ways to analyze images and visualize data.
+Explore my latest personal projects (and scientific art), showcasing my expertise in computer vision, image processing, and machine learning.
+
+--------------------------------------------------------------
+
+ABOUT PAGE:
+
+- Passion Fuels Purpose! 
+- Guten Tag! My name is Yung Suk "Jeremy" Yoo, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
+I am always looking for innovative ways to process image data and presenting results using creative visuals. 
+As humans, we can process and convey information more efficiently using images than any other medium. 
+With 8 years of transmission electron microscopy (TEM) and 3 years of machine learning experience, I am always looking for interesting problems to solve.
+
+
+- While pursuing my Ph.D. using electron microcopy, I realized that most of our attention and efforts are focused on visual ergonomics and data. 
+My Ph.D. thesis presentation was filled with images that was palatable to both the technical and non-expert audience. 
+I believe that visualization will only become more important in an age where technology becomes more important in our lives. 
+It is critical not only to know how to process volumes of image data but also to convert information-dense results into digestible content like graphs and maps. 
+
+
+- With this online portfolio, I hope to explore intereting ways to visualize numerical data and process images. 
+I look forward to the day when I can discuss my work with people from different areas of expertise. 
+
+--------------------------------------------------------------
+
+EXPERIENCE: 
+
+Software Research Scientist/Engineer @Intel
+2022-2024 | Hillsboro, CA, USA
+Worked on a team calibrating computer models (optical proximity correction) to optimize photomask performance for high yield manufacturing 
+Developed and tested machine learning image classifiers that selected images of failed photoresist prints on wafers
+Developed and maintained internal Python automation tools using Gitlab 
+
+Postdoctoral Research Fellow @University of Michigan
+2020-2022 | Ann Arbor, MI, USA
+Worked as a Postdoctoral Fellow in Professor Amit Misra's group combining EBSD and TEM to characterize dislocation pileup near grain boundaries in magnesium alloys
+
+Graduate Research Intern @Los Alamos National Laboratory
+Summer 2018 | Los Alamos, NM, USA
+Worked as a summer intern characterizing spall surface of tantalum after shock loading
+Developed MATLAB analysis script to process grain boundary orientation from EBSD data 
+
+Graduate Research Assistant @Georgia Institute of Technology
+2014-2020 | Atlanta, GA, USA
+Pursed a Doctorate in Materials Science and Engineering under Professor Josh Kacher focusing on developing multiscale electron microscopy techniques to study the deformation behavior of aluminum alloys under three-point bending
+Developed a MATLAB script counting the number of dispersoid particles and their area fractions in STEM images 
+Combined high resolution EBSD, focused ion beam, and TEM data to investigate the microstructural changes in stress-tested aluminum
+Quantify strain accumulation near microstructural defects using data science techniques
+
+
+--------------------------------------------------------------
+
+EDUCATION:
+
+Ph.D. in Materials Science and Engineering
+2014-2020 | Georgia Institute of Technology (Georgia Tech)
+Concentration in materials characterization and image processing.
+
+B.S. in Materials Science and Engineering
+2010-2014 | Korea University
+Coursework focused on semiconductors. 
+
+--------------------------------------------------------------
+
+PROJECTS PAGE:
+
+- Imagination Trumps Knowledge!
+
+Crypto Screener Application
+A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
+It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
+local currency.
+
+React Portfolio Website
+A professional portfolio website using React JS, Framer-motion, and Styled-components. It has smooth 
+page transitions, cool background effects, unique design and it is mobile responsive.
+
+--------------------------------------------------------------
+
+ARTICLES PAGE:
+
+- Words Can Change The World! 
+
+Build A Custom Pagination Component In Reactjs From Scratch
+Learn how to build a custom pagination component in ReactJS from scratch. 
+Follow this step-by-step guide to integrate Pagination component in your ReactJS project.
+9 min read
+
+Creating Stunning Loading Screens In React: Build 3 Types Of Loading Screens
+Learn how to create stunning loading screens in React with 3 different methods. 
+Discover how to use React-Loading, React-Lottie & build a custom loading screen. 
+Improve the user experience.
+10 min read
+
+Form Validation In Reactjs: Build A Reusable Custom Hook For Inputs And Error Handling
+
+Silky Smooth Scrolling In Reactjs: A Step-By-Step Guide For React Developers
+
+Creating An Efficient Modal Component In React Using Hooks And Portals
+
+Build A Fabulous Todo List App With React, Redux And Framer-Motion
+
+Redux Simplified: A Beginner's Guide For Web Developers
+
+What Is Higher Order Component (Hoc) In React?
+
+
+
