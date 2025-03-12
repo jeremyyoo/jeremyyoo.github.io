@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import Layout from '@/components/Layout'
-import profilePic from "../../public/images/profile/landing_page_image.png"
+import landingPagePic from "../../public/images/profile/landing_page_image.png"
 import AnimatedText from '@/components/AnimatedText'
 import Link from 'next/link'
 import { LinkArrow } from '@/components/Icons'
@@ -25,11 +25,11 @@ export default function Home() {
           <div className="flex items-center justify-between w-full">
 
             <div className='w-1/2'>
-              <Image src={profilePic} alt="Yoo" className='w-full h-auto' />
+              <Image src={landingPagePic} alt="Yoo" className='w-full h-auto' />
             </div>
 
             <div className='w-1/2 flex flex-col items-center self-center'>
-              <AnimatedText text="Combining Materials Science and Machine Learning" className='!text-6xl !text-left' />
+              <AnimatedText text="Bridging Material Science and Machine Learning" className='!text-6xl !text-left' />
               <p className='my-4 text-base font-medium'>
                 As a machine learning and materials characterization expert, I am passionate about learning new ways to analyze images and visualize data.
                 Explore my latest personal projects (and scientific art), showcasing my expertise in computer vision, image processing, and machine learning.

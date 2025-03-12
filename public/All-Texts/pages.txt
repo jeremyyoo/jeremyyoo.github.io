@@ -8,7 +8,7 @@ Explore my latest personal projects (and scientific art), showcasing my expertis
 
 ABOUT PAGE:
 
-- Passion Fuels Purpose! 
+- Bridging Machine Learning and Material Science 
 - Guten Tag! My name is Yung Suk "Jeremy" Yoo, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
 I am always looking for innovative ways to process image data and presenting results using creative visuals. 
 As humans, we can process and convey information more efficiently using images than any other medium. 
