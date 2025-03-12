@@ -5,7 +5,7 @@ const {fontFamily} = require('tailwindcss/defaultTheme')
 module.exports = {
   content: [
       './src/**/*.{js,ts,jsx,tsx}',
-  //   './pages/**/*.{js,ts,jsx,tsx}',
+      './pages/**/*.{js,ts,jsx,tsx}',
       './components/**/*.{js,ts,jsx,tsx}',
       './app/**/*.{js,ts,jsx,tsx}',
   ],
@@ -17,9 +17,13 @@ module.exports = {
       colors:{
           dark: "#1b1b1b",
           light: "#f5f5f5",
-          primary: "#B63E96", // 240,86,199 dark pink
-          primaryDark: "#58E6D9", // 80,230,217 electric blue
-      }
+          primary: "#FFCB05", // CMYK: C0, M18, Y100, K0 Michigan Maize
+          primaryDark: "#00274C", // CMYK: C100, M60, Y0, K60 Michigan Blue
+      },
+      backgroundImage:{
+        circularLight: 'repeating-radial-gradient(rgba(0,0,0,0.4) 2px, #f5f5f5 5px, #f5f5f5 100px);'
+
+      },
     },
   },
   plugins: [],
