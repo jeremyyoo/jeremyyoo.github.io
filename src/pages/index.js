@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import Layout from '@/components/Layout'
-import profilePic from "../../public/images/profile/homepage-pic.jpeg"
+import profilePic from "../../public/images/profile/landing_page_image.png"
 import AnimatedText from '@/components/AnimatedText'
 import Link from 'next/link'
 import { LinkArrow } from '@/components/Icons'
