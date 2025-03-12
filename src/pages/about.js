@@ -23,7 +23,7 @@ const about = () => {
                             <h2 className="mb-4 text-lg font-bold uppercase text-dark/75">About Me</h2>
 
                             <p className="font-medium">
-                                Guten Tag! My name is <b>Yung Suk "Jeremy" Yoo</b>, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
+                                Guten Tag! My name is <b>Yung Suk (Jeremy) Yoo</b>, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
                                 I am always looking for innovative ways to process image data and presenting results using creative visuals.
                                 With <b>8 years of electron microscopy (SEM, TEM, STEM, EBSD, FIB)</b> and <b>3 years of machine learning experience</b>, I am always looking for interesting problems to solve.
                             </p>
