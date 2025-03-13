@@ -67,7 +67,7 @@ const Experience = () => {
 
                     <Details
                         position="Graduate Research Intern"
-                        companyLink="https://www.lanl.gov/"
+                        companyLink="https://www.lanl.gov/engage/organizations/physical-sciences/materials-science-technology"
                         company="Los Alamos National Lab"
                         time="2018.05-2018.08"
                         location="Los Alamos, NM, USA"
