@@ -81,7 +81,7 @@ const Experience = () => {
                         company="Georgia Institute of Technology"
                         time="2014.08-2020.08"
                         location="Atlanta, GA, USA"
-                        work="Pursed a Doctorate in Materials Science and Engineering under Professor Josh Kacher focusing on developing multiscale electron microscopy techniques to study the deformation behavior of aluminum alloys under three-point bending. 
+                        work="Pursued a Doctorate in Materials Science and Engineering under Professor Josh Kacher focusing on developing multiscale electron microscopy techniques to study the deformation behavior of aluminum alloys under three-point bending. 
                             Developed a MATLAB script counting the number of dispersoid particles and their area fractions in STEM images. 
                             Combined high resolution EBSD, focused ion beam, and TEM data to investigate the microstructural changes in stress-tested aluminum. 
                             Quantify strain accumulation near microstructural defects using data science techniques."
