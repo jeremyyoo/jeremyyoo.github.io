@@ -31,7 +31,7 @@ const about = () => {
                             <p className="font-medium">
                                 Guten Tag! My name is <b>Yung Suk (Jeremy) Yoo</b>, and I am a lifelong student of everything related to visualization: images, graphs, maps, etc.
                                 I am always looking for innovative ways to process image data and presenting results using creative visuals.
-                                With <b>8 years of electron microscopy (SEM, TEM, STEM, EBSD, FIB)</b> and <b>3 years of machine learning experience</b>, I am always looking for interesting problems to solve.
+                                With <b>over 7 years of electron microscopy (SEM, TEM, STEM, EBSD, FIB)</b> and <b>3 years of machine learning experience</b>, I am always looking for interesting problems to solve.
                             </p>
 
                             <p className="my-4 font-medium">
